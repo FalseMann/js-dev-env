@@ -1,5 +1,7 @@
 # JavaScript/TypeScript Development Environment
 
+> ⚠️ THIS IS A WORK-IN-PROGRESS
+
 > My presentation notes and resources for establishing a competent JS/TS
 > development environment aimed at new programmers
 
